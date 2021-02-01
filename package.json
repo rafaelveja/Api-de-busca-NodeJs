@@ -1,0 +1,26 @@
+{
+  "name": "NodeJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "keywords": [],
+  "author": "Rafael Silva Veja",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "body": "^5.1.0",
+    "commonjs": "0.0.1",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "node": "^15.7.0",
+    "node-fetch": "^2.6.1",
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
